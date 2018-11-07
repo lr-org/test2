@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ligar.restrito.org/sitemap.xml

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ligar.restrito.org/</loc>
+    <image:image>
+      <image:loc>https://ligar.restrito.org/cache/media/como-ligar-restrito.png</image:loc>
+      <image:title>como ligar restrito</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://ligar.restrito.org/vivo/</loc>
+    <image:image>
+      <image:loc>https://ligar.restrito.org/cache/media/como-ligar-restrito-vivo.png</image:loc>
+      <image:title>como ligar restrito vivo</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://ligar.restrito.org/tim/</loc>
+    <image:image>
+      <image:loc>https://ligar.restrito.org/cache/media/como-ligar-restrito-tim.png</image:loc>
+      <image:title>como ligar restrito tim</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://ligar.restrito.org/claro/</loc>
+    <image:image>
+      <image:loc>https://ligar.restrito.org/cache/media/como-ligar-restrito-claro.png</image:loc>
+      <image:title>como ligar restrito claro</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://ligar.restrito.org/oi/</loc>
+    <image:image>
+      <image:loc>https://ligar.restrito.org/cache/media/como-ligar-restrito-oi.png</image:loc>
+      <image:title>como ligar restrito oi</image:title>
+    </image:image>
+  </url>
+</urlset> 
